@@ -71,6 +71,7 @@ $(document).ready(function(){
     }else {
       total +=5;
     };
+    
 
     if (total <=6) {
       $("#result1").show();
@@ -81,6 +82,5 @@ $(document).ready(function(){
     }else {
       $("#result4").show();
     };
-
   });
 });
