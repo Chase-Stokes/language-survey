@@ -51,3 +51,7 @@ body {
 .jc-center {
   justify-content: center;
 }
+
+.result {
+  text-align: center;
+}
