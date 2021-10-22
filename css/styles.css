@@ -33,9 +33,9 @@ body {
   display: none;
 }
 
-#result4 {
+/*#result4 {
   display: none;
-}
+}*/
 
 .btn {
   border: 1px solid black;
@@ -54,4 +54,24 @@ body {
 
 .result {
   text-align: center;
+}
+
+.rubyimg {
+  width: 75%;
+  height: 75%;
+}
+
+.javaimg {
+  width: 75%;
+  height: 75%;
+}
+
+.cimg {
+  width: 75%;
+  height: 75%;
+}
+
+.pythonimg{
+  width: 75%;
+  height: 75%;
 }

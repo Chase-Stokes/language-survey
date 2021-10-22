@@ -72,11 +72,11 @@ $(document).ready(function(){
       total +=5;
     };
 
-    if (total <=4) {
+    if (total <=6) {
       $("#result1").show();
-    } else if (total <=8) {
-      $("#result2").show();
     } else if (total <=12) {
+      $("#result2").show();
+    } else if (total <=18) {
       $("#result3").show();
     }else {
       $("#result4").show();
