@@ -17,7 +17,7 @@ _This is a fun quiz used to show the user a few of the computer languages they c
 
 ## Published Site
 
-* _published like goes here_
+* _published link goes here_
 
 ## Setup/Installation Requirements
 
